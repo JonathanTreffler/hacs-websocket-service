@@ -3,14 +3,13 @@
   "name": "Websocket Connection",
   "documentation": "https://github.com/TessyPowder/hacs-websocket-service",
   "dependencies": [
-      "asyncio",
-      "websockets"
   ],
   "config_flow": false,
   "codeowners": [
     "@TessyPowder"
   ],
   "requirements": [
-    ""
+    "asyncio",
+    "websockets"
   ]
 }
