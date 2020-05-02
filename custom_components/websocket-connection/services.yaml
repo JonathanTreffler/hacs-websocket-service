@@ -1,0 +1,9 @@
+websocket-connection:
+  description: Allows you to trigger a websocket message
+  fields:
+    host:
+      description: Host and port to send the message to
+      example: "192.168.1.100:8085"
+    message:
+      description: Message to send
+      example: "hello world"
