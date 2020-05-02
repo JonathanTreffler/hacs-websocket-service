@@ -13,6 +13,7 @@ def setup(hass, config):
         uri = "ws://"+host
         async with websockets.connect(uri) as websocket:
             await websocket.send(message)
+            await websocket.close()
 
     hass.services.register(DOMAIN, "send", handle_send)
 
