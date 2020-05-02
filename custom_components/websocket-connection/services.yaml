@@ -1,4 +1,4 @@
-websocket-connection:
+send:
   description: Allows you to trigger a websocket message
   fields:
     host:
