@@ -1,3 +1,5 @@
+import websockets
+
 DOMAIN = "websocket_connection"
 
 def setup(hass, config):
