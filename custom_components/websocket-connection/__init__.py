@@ -5,8 +5,10 @@ def setup(hass, config):
 
     def handle_send(host, message):
         """Handle the service call."""
+        uri = "ws://"+host
+        async with websockets.connect(uri) as websocket:
+            await websocket.send(input(message))
 
     hass.services.register(DOMAIN, "send", handle_send)
 
-    # Return boolean to indicate that initialization was successfully.
     return True

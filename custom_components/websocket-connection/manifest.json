@@ -9,7 +9,6 @@
     "@TessyPowder"
   ],
   "requirements": [
-    "asyncio",
     "websockets"
   ]
 }
