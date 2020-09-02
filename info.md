@@ -17,8 +17,8 @@
 
 ***
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/TessyPowder/hacs-websocket-service.svg?style=flat-square
-[commits]: https://github.com/TessyPowder/hacs-websocket-service/commits/master
+[commits-shield]: https://img.shields.io/github/commit-activity/y/JonathanTreffler/hacs-websocket-service.svg?style=flat-square
+[commits]: https://github.com/JonathanTreffler/hacs-websocket-service/commits/master
 [hacs]: https://github.com/custom-components/hacs
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square
 [discord]: https://discord.gg/Qa5fW2R
@@ -26,6 +26,6 @@
 [exampleimg]: example.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=flat-square
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/TessyPowder/hacs-websocket-service.svg?style=flat-square
-[releases-shield]: https://img.shields.io/github/release/TessyPowder/hacs-websocket-service.svg?style=flat-square
-[releases]: https://github.com/TessyPowder/hacs-websocket-service/releases
+[license-shield]: https://img.shields.io/github/license/JonathanTreffler/hacs-websocket-service.svg?style=flat-square
+[releases-shield]: https://img.shields.io/github/release/JonathanTreffler/hacs-websocket-service.svg?style=flat-square
+[releases]: https://github.com/JonathanTreffler/hacs-websocket-service/releases
