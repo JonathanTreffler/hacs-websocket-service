@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/JonathanTreffler/hacs-websocket-service)](https://github.com/JonathanTreffler/hacs-websocket-service/blob/master/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/JonathanTreffler/hacs-websocket-service)
+
 # hacs-websocket-service
 Integration to call a WebSocket from Home Assistant
 
